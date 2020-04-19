@@ -1,0 +1,2 @@
+rootProject.name='Księżyc'
+include ':app'
